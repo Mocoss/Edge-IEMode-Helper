@@ -1,9 +1,0 @@
-{
-  "name": "com.ietab.helper",
-  "description": "IE Tab 本地辅助程序",
-  "path": "E:\\IETabHelper\\IETabHelper.exe",
-  "type": "stdio",
-  "allowed_origins": [
-    "chrome-extension://你的扩展ID/"
-  ]
-}
